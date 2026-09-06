@@ -1,6 +1,6 @@
 # Hareshkumar Nadaraja — Portfolio
 
-A responsive static portfolio with dark/light themes, samurai artwork, academic and business projects, resume downloads, and direct contact links.
+A responsive static portfolio with dark/light themes, a monogram and subtle animations, academic and business projects, resume downloads, and direct contact links.
 
 ## Run and deploy
 
@@ -10,9 +10,9 @@ Open index.html locally, or serve the root with a static HTTP server. Run node b
 
 Content and project disclosures: index.html. Theme and layout: styles.css. Interactive controls: script.js. Resume: resume.html and resume.txt. Update both resume formats together.
 
-## Source verification
+## Projects
 
-Experience and qualifications are drawn from the supplied resume. Sunrise is an academic Java Swing application, verified against the public sunrise-dental-clinic-management-system repository. Kawshalya is a catalogue prototype, described from the existing local website source and documentation. No claim of live commercial operation is made.
+Sunrise is a Java Swing academic project for CIS6003. Kawshalya is a multilingual jewellery catalogue prototype. The portfolio includes project descriptions, technology stacks, and source links where available.
 
 ## Contact
 

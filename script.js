@@ -1,16 +1,3 @@
-/* Replace empty values with your verified HTTPS profile/repository URLs. */
-const portfolioLinks = {
-  github: '',
-  sunrise: '',
-  kawshalya: '',
-  portfolio: ''
-};
-const linkLabels = {
-  github: 'Visit GitHub ↗',
-  sunrise: 'View repository ↗',
-  kawshalya: 'View repository ↗',
-  portfolio: 'View repository ↗'
-};
 document.documentElement.classList.add('js');
 const themeButton = document.querySelector('.theme-toggle');
 function updateThemeButton() {
@@ -28,20 +15,6 @@ themeButton.addEventListener('click', () => {
   document.documentElement.dataset.theme = next;
   try { localStorage.setItem('portfolio-theme', next); } catch { /* Theme still works without storage. */ }
   updateThemeButton();
-});
-document.querySelectorAll('[data-link]').forEach(link => {
-  const value = portfolioLinks[link.dataset.link];
-  if (!value) return;
-  try {
-    const url = new URL(value);
-    if (url.protocol !== 'https:') return;
-    link.href = url.href;
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
-    link.removeAttribute('aria-disabled');
-    link.classList.remove('placeholder-link');
-    link.textContent = linkLabels[link.dataset.link];
-  } catch { /* Unconfigured links remain visibly unavailable. */ }
 });
 const menu = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#navigation');

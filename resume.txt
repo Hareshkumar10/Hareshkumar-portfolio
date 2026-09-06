@@ -52,7 +52,6 @@ Data & tools
 - Microsoft SQL Server (MSSQL), MySQL & MongoDB
 - Advanced Excel & Microsoft Office
 - Google Workspace
-- AI prompt engineering & content generation
 
 Operations
 - US healthcare provider credentialing
