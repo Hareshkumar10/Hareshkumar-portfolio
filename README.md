@@ -17,7 +17,7 @@ Experience and qualifications are drawn from the supplied resume. Sunrise is an 
 ## Contact
 
 GitHub: https://github.com/Hareshkumar10
-LinkedIn: https://www.linkedin.com/in/HareshkumarNadaraja/
+LinkedIn: https://www.linkedin.com/in/hareshkumarnadaraja
 WhatsApp: https://wa.me/94764041027
 Email: hareshkumar.hk2001@gmail.com
 
