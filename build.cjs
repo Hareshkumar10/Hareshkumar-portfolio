@@ -1,0 +1,1 @@
+const fs=require('node:fs');fs.mkdirSync('out',{recursive:true});for(const f of ['index.html','styles.css','script.js','theme-init.js','resume.html','resume.css','resume.js','resume.txt','samurai-emblem.png','favicon.svg'])fs.copyFileSync(f,'out/'+f);
