@@ -41,30 +41,48 @@ Managed Molecular Biology documentation, test results, and customer information.
 
 Skills & competencies
 
-Development
-- Java · C# · ASP.NET
-- Object-oriented programming
-- Android Studio
-- Data structures & algorithms
+Software & web development
+- Java, C#, ASP.NET & object-oriented programming
+- HTML5, CSS3 & JavaScript — portfolio project
+- TypeScript, React, Vinext & Tailwind CSS — catalogue prototype
+- Java Swing desktop interfaces — Sunrise academic project
+- Android Studio, data structures & algorithms
+
+Databases & application design
+- SQL, MySQL, Microsoft SQL Server (MSSQL) & MongoDB
+- JDBC and UI / service / DAO separation — Sunrise
+- Cloudflare D1 / SQLite, prepared SQL & Drizzle schema tooling — prototype
+- HTTP / JSON APIs, input validation & role-based access — project practice
+- Process documentation & workflow design
+
+Engineering tools & quality
+- Git & GitHub version control
+- NetBeans, Apache Ant & JUnit — Sunrise
+- Node.js, npm, Vite & Wrangler — web project tooling
+- Unit / integration testing & GitHub Actions — Sunrise
+- Responsive design, accessibility checks & Vercel deployment — portfolio
 - IT project management
 
-Data & tools
-- Microsoft SQL Server (MSSQL), MySQL & MongoDB
+AI & productivity
+- AI prompt engineering
+- AI-assisted content generation
+- Workflow automation implementation — DEA credentialing initiative
 - Advanced Excel & Microsoft Office
 - Google Workspace
 
-Operations
-- US healthcare provider credentialing
+Healthcare operations
+- US healthcare provider credentialing & re-credentialing
 - Training & development
 - Quality assurance & compliance
-- Process documentation & workflow optimisation
 - Revenue cycle management & collections
 - Background verification coordination
+- Data integrity & discrepancy resolution
 
-Collaboration
+Communication & leadership
 - Cross-functional teamwork
 - Client & patient communication
-- Problem-solving & discrepancy resolution
+- Problem-solving & workflow optimisation
+- Team training and knowledge sharing
 - Tamil, English & Sinhala
 
 Education & credentials
