@@ -1,11 +1,12 @@
 HARESHKUMAR NADARAJA
-Specialist - Trainer | Software Engineering Undergraduate
+Specialist - Trainer | Healthcare & BPO Operations
+Target roles: Team Leader / Trainer — Healthcare and BPO Operations
 Colombo, Sri Lanka | +94 71 594 6881 | hareshkumar.hk2001@gmail.com
 LinkedIn: https://www.linkedin.com/in/hareshkumarnadaraja
 Professional summary
-I bring an operational perspective to software engineering.
-My experience spans healthcare credentialing, training, documentation, and customer service. At HCLTech, I help teams improve accuracy, compliance, and the way work gets done.
-Alongside my professional work, I’m pursuing a BSc (Hons) in Software Engineering at ICBT Campus. I bring technical knowledge, team collaboration, and careful problem-solving to practical challenges.
+I help teams strengthen process knowledge, accuracy, and service delivery.
+Specialist – Trainer at HCLTech Sri Lanka with experience in US healthcare provider credentialing, training and development, quality assurance, and process compliance. My earlier roles span credentialing operations, insurance collections, documentation, and patient communication.
+Seeking Team Leader and Trainer opportunities in healthcare and BPO operations. I bring cross-functional coordination, discrepancy resolution, and workflow improvement experience, supported by an Emerging Leader Award and recognition for DEA automation implementation. My ongoing software engineering studies complement this operational background.
 
 Professional experience
 
@@ -13,7 +14,7 @@ Specialist – Trainer
 HCLTech Sri Lanka · Colombo 02
 Oct 2025 – Present
 
-Lead training and development for US healthcare provider credentialing. Support compliant, accurate workflows and associate performance, and coordinate employee background verification with HR.
+Lead training and development initiatives for US healthcare provider credentialing processes. Support associate performance through a focus on process accuracy, compliance, and workflow efficiency. Coordinate with HR to initiate background verification for new employees.
 
 Process Analyst
 HCLTech Sri Lanka · Colombo 02
@@ -41,19 +42,27 @@ Managed Molecular Biology documentation, test results, and customer information.
 
 Skills & competencies
 
-Software & web development
-- Java, C#, ASP.NET & object-oriented programming
-- HTML5, CSS3 & JavaScript — portfolio project
-- TypeScript, React, Vinext & Tailwind CSS — catalogue prototype
-- Java Swing desktop interfaces — Sunrise academic project
-- Android Studio, data structures & algorithms
+Healthcare operations
+- US healthcare provider credentialing & re-credentialing
+- Training & development
+- Quality assurance & compliance
+- Revenue cycle management & collections
+- Background verification coordination
+- Data integrity & discrepancy resolution
 
-Databases & application design
-- SQL, MySQL, Microsoft SQL Server (MSSQL) & MongoDB
-- JDBC and UI / service / DAO separation — Sunrise
-- Cloudflare D1 / SQLite, prepared SQL & Drizzle schema tooling — prototype
-- HTTP / JSON APIs, input validation & role-based access — project practice
-- Process documentation & workflow design
+Training & team collaboration
+- Cross-functional teamwork
+- Client & patient communication
+- Problem-solving & workflow optimisation
+- Team training and knowledge sharing
+- Tamil, English & Sinhala
+
+AI & productivity
+- AI prompt engineering
+- AI-assisted content generation
+- Workflow automation implementation — DEA credentialing initiative
+- Advanced Excel & Microsoft Office
+- Google Workspace
 
 Engineering tools & quality
 - Git & GitHub version control
@@ -63,27 +72,19 @@ Engineering tools & quality
 - Responsive design, accessibility checks & Vercel deployment — portfolio
 - IT project management
 
-AI & productivity
-- AI prompt engineering
-- AI-assisted content generation
-- Workflow automation implementation — DEA credentialing initiative
-- Advanced Excel & Microsoft Office
-- Google Workspace
+Databases & application design
+- SQL, MySQL, Microsoft SQL Server (MSSQL) & MongoDB
+- JDBC and UI / service / DAO separation — Sunrise
+- Cloudflare D1 / SQLite, prepared SQL & Drizzle schema tooling — prototype
+- HTTP / JSON APIs, input validation & role-based access — project practice
+- Process documentation & workflow design
 
-Healthcare operations
-- US healthcare provider credentialing & re-credentialing
-- Training & development
-- Quality assurance & compliance
-- Revenue cycle management & collections
-- Background verification coordination
-- Data integrity & discrepancy resolution
-
-Communication & leadership
-- Cross-functional teamwork
-- Client & patient communication
-- Problem-solving & workflow optimisation
-- Team training and knowledge sharing
-- Tamil, English & Sinhala
+Software & web development
+- Java, C#, ASP.NET & object-oriented programming
+- HTML5, CSS3 & JavaScript — portfolio project
+- TypeScript, React, Vinext & Tailwind CSS — catalogue prototype
+- Java Swing desktop interfaces — Sunrise academic project
+- Android Studio, data structures & algorithms
 
 Education & credentials
 
