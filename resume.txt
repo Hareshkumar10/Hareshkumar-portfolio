@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/hareshkumarnadaraja
 Professional summary
 I help teams strengthen process knowledge, accuracy, and service delivery.
 Specialist – Trainer at HCLTech Sri Lanka with experience in US healthcare provider credentialing, training and development, quality assurance, and process compliance. My earlier roles span credentialing operations, insurance collections, documentation, and patient communication.
-Seeking Team Leader and Trainer opportunities in healthcare and BPO operations. I bring cross-functional coordination, discrepancy resolution, and workflow improvement experience, supported by an Emerging Leader Award and recognition for DEA automation implementation. My ongoing software engineering studies complement this operational background.
+Seeking Team Leader and Trainer opportunities in healthcare and BPO operations. I bring cross-functional coordination, discrepancy resolution, and workflow improvement experience, supported by an Emerging Leader Award and recognition for proposing a DEA automation idea and supporting automation audits. My ongoing software engineering studies complement this operational background.
 
 Professional experience
 
@@ -60,7 +60,7 @@ Training & team collaboration
 AI & productivity
 - AI prompt engineering
 - AI-assisted content generation
-- Workflow automation implementation — DEA credentialing initiative
+- Automation idea development & automation audits — DEA credentialing
 - Advanced Excel & Microsoft Office
 - Google Workspace
 
@@ -131,7 +131,7 @@ Awarded by the Global Delivery Head for exceptional performance.
 
 Value Contributor
 May 2025 · HCLTech Sri Lanka
-Recognised for successful DEA automation that improved credentialing workflow efficiency and service delivery.
+Recognised for proposing a DEA automation idea and contributing to automation audits for credentialing operations.
 
 Quarterly Excellence
 2025 · HCLTech Sri Lanka
