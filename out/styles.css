@@ -11,3 +11,5 @@
 .detail-label{font-size:16px;line-height:1.5;color:var(--ink);margin:16px 0 8px}.credential .detail-label,.education-list .detail-label,.awards-grid .detail-label{font-size:18px;margin:0 0 6px}.detail-body .detail-label{color:var(--ink)}
 
 .skills-grid article{min-width:0;overflow-wrap:anywhere}.skills-grid article:nth-child(odd){border-left:0;padding-left:0}.skills-grid article:nth-child(n+3){border-top:1px solid var(--line)}.detail-body ol{padding-left:22px}.detail-body li{margin-bottom:10px}.detail-body code{overflow-wrap:anywhere}@media(max-width:720px){.skills-grid article{border-left:0;padding-left:0}.skills-grid article:nth-child(n+2){border-top:1px solid var(--line)}}
+
+.core-keywords{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0}.core-keywords span{border:1px solid var(--line);border-radius:999px;padding:8px 12px;color:var(--ink);font-size:12px;letter-spacing:.04em;background:color-mix(in srgb,var(--panel) 88%,transparent)}
